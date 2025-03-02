@@ -24,6 +24,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -40,3 +41,8 @@ jobs:
           plugin_lines_sections: history
           
           plugin_stars: yes
+
+          plugin_steam_token: ${{ secrets.METRICS_STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198844019686"
+          plugin_steam_games_limit: 4
