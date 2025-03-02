@@ -18,7 +18,7 @@ jobs:
         filename: metrics.plugin.steam.svg
         token: NOT_NEEDED
         base: ""
-        plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+        plugin_steam_token: ${{ secrets.METRICS_STEAM_TOKEN }}
         plugin_steam: yes
         plugin_steam_user: "76561198844019686"
         plugin_steam_games_limit: 4
