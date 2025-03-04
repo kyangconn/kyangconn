@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2213" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1854" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .about{flex-grow:1}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.steam .media .achievement .ellipsis{margin-left:18px}.achievement{display:flex;margin:4px 0}.achievement .text{font-size:12px;color:#666}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .about{flex-grow:1}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.steam .media .achievement .ellipsis{margin-left:18px}.achievement{display:flex;margin:4px 0}.achievement .unlock{font-size:9px;color:#666}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            21 Commits
+                            23 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -132,7 +132,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    2.27 MB used
+                                    2.55 MB used
                                 </div>
                             </section>
                             <section>
@@ -172,111 +172,6 @@
                     </svg>
                     Lines of code pushed
                 </h2>
-                <div class="row margin-bottom">
-                    <h3 class="margin-lr-auto">Diff history</h3>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
-                        <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
-                            <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(49.07142857142857,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12 PM</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(77.78571428571428,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 24</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(106.5,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12 PM</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(135.21428571428572,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 25</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(163.92857142857142,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12 PM</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(192.64285714285714,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 26</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(221.35714285714286,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12 PM</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(250.07142857142856,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 27</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(278.7857142857143,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12 PM</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(307.5,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 28</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(336.2142857142857,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12 PM</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(364.92857142857144,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">March</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(393.64285714285717,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12 PM</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(422.35714285714283,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mar 02</text>
-                            </g>
-                        </g>
-                        <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
-                            <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,20.55555555555556)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">400</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,50.66666666666666)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">300</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,80.77777777777779)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">200</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,110.88888888888887)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">100</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,141)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,171.11111111111114)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−100</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,201.22222222222223)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−200</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,231.33333333333334)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−300</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,261.44444444444446)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−400</text>
-                            </g>
-                        </g>
-                        <path d="M39,140.5L441,140.5L441,77.869L39,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L441,140.5L441,165.492L39,146.823Z" fill="rgb(218, 54, 51)"/>
-                    </svg>
-                </div>
             </section>
             <section>
                 <h2 class="field">
@@ -293,9 +188,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="286.98929995104555" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="286.98929995104555" y="0" width="133.08762850548987" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="420.0769284565354" y="0" width="39.92307154346458" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.49624060150376" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="280.49624060150376" y="0" width="130.2652084757348" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="410.7614490772385" y="0" width="49.23855092276145" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -312,9 +207,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#a91e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        EJS
+                        Other
                     </div>
                 </div>
             </section>
@@ -335,7 +230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kyangconn/develop-secure-software</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -389,7 +284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kyangconn/kyangconn</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Personal Github Readme</div>
@@ -430,7 +325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kyangconn/train-ticket-chatbot</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -484,7 +379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepseek-ai/awesome-deepseek-integration</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Integrate the DeepSeek API into popular softwares</div>
@@ -499,13 +394,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        24.1k
+                                        24.4k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        2.58k
+                                        2.62k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -518,7 +413,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        259
+                                        264
                                     </div>
                                 </div>
                             </section>
@@ -842,15 +737,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAEIAgMFBwT/xAAtEAACAQQBAgUDAwUAAAAAAAABAgMABAUREgYhBxMUMUEiI1ElYYEyQlJyof/EABgBAAMBAQAAAAAAAAAAAAAAAAACBAED/8QAHxEAAgIDAAIDAAAAAAAAAAAAAAECEQMEEiIxEyFh/9oADAMBAAIRAxEAPwCZqKNU6oSJBUU6N1qAN0E7FKtseiO9JK5GvxSdGqmDoUHW6ba12rfwaTulRjy0pO/uf4/mglQAXDEN2Gh7GulgMhFis9ZX13EtykUgLx6/qFVPmoemrSbpO3jwifrkgRyVX6NrvdZ0FEjNoKBxZmPZWHYH9qRYKxUgqWGm2ParU6y8MsFf4TJ2sFgsLGEekZdA+Zvv7U8j4O4QYCxt7ax4S2cazSTuQfNYjutL0MokVNsqFG+TdgNd6ewGCk6C/OquPqTwq6UyHT7Whjhsr+4iVYZjoBWrzrxN6FxmN6gx+PsbaN2MEcfFVG3bXc/zWSzKEbKdXVezkWOyYORDEhgrfOx8U2ABUdyPfdWJceGHTuNwsERsDcZCRQ0oXX0g1OfjFjbXFdbTWmPi8uBYEPD8H5qXDudyofPqcY/ks43QGMsMz1jicZmnK464m4yOrcSBr81SbW+Fu5bGW8tLyU4eU+j4Ta5a7D/lSfG7ROHRmV/gqdFa+kZG/Cq3r7nanehKas5ILLHvslj8bjYslCLue9u2MT2/nb8tR86+K4tulljszc5G1usjJLNEv25LksiH/WpQORvyTq+utDvoyntWRyeQLAPfXLKRpWEhGj+9byOpFc5S8sM5jr2zybXUYSMPDwm4sW+dGuVfdTYrD9V4++uOcohiRPJkfk/Ye+6lpsheleHrboKP7jKe5rCW6uZJOUs8zPrQZnJrjkhZ31tiOJ+SsuvC+IPTGUkluZJVtnZdalbf8VKfj9eW194j3V1YEPA8SqGU9q8/aedhw9TK2u/0MRWpnaR+UhkkI/LbNJDCNn2Y5FUFQUUqKrshHS+NfFFAosAp8SaWqe6F9jKTXoOJHtS9jT5GjVDdA5t+z//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABwgEBgEFCQAD/8QANRAAAQMDAgMHAgQGAwAAAAAAAQIDBAAFEQYSByExCBMUIkFhgVFxFSMyQhYkJjORsjSCkv/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8AVfBPTnj1rx5HORmpdtgTLrLTHgsLffVyCECj5w14AvyQ3N1OdiDgiMOSqXQC+l9JXbU8ltq1RHHUlWFPAeVP3pmeGvAmLZCzNua1ypvX8pRSE/FGPTumrdZIiGYbDDKUgJylIB+a34QhBTsyfcHlXO6VIB/EngpbtSMl6M6uLNSPKpxRKT7YpYNaaCvmkZa27pCd7gHyvgeVQroc4N3IlJH1Nai9WSBdYxYmMtutHqlwBR+KyaLHN043fqFZAOQeg+tM1xL4BMu97M0qsIdyVGOo7iftS732yXKxzFR7tFcjOpOMLHWus0kWuymyy7q+5F9tKyiOkp3DODk0w3EzV6tL26LHt433aYsttp64+nKl/wCycf6tuqgMq8Onl80RuNzhha3sMt7/AIvegbj0ScVGlRe9P6LuNxtjcq8T31z3xuPdLKUozz5iomm1XSxaouDFwfXIjttjuiScZoi2d5uTbIy2N3nbTkBXpitBr5Ub8BkgFLTwTyP7j81zsUHPEO93iBKZmsSCiE8vaoD0qx6mQ5C4fGYqU4H22g+0sLPmKvSq+bL+M8NJzzi1PPJB2AHoQaiabu/8SWS0WFSi8pLxbfA6hIrZBeOF9hnNWwXW6yHVOOpCkpUo9DQa7XUVpqNZ3UNpDjj6sqxzPKmfjsJjxG2ArytoCEp+1LN2vdxgWbvBgh9WP8VUibFa7JhI1Zd9v6vDJx/6NMhxI0jC1TYFomENuoTkK6YNLb2TcDV11CztHh08/wDtTW6kdbVpiclw7UJb/uClvoC2mmdd2GCqNBltybfkoTIKMhIHpn2qzjTV3lWmbOuEsTrq63hAa5IH08v1rdMPNp4ZTFx3MhQKeXXr6V8rV+ZcbQ5ZlPOOHaJWVEpCcfSs6JPDWE/CsDkC7Nd0+SpW1X7s1oeHGlhpTUtym3IhjxKyWd/Qc85qxpuUaFr+5PSHimP4dASlWSCrPPFReKb3iH7IsPhj83cnIPMY9a2ggJebksh2MpK2881Clj7YI/k7KRzHfK/1pgNGPsLsCu5d3jcQo+9L/wBr9Q8DZEoIKe+V/rTMC86cv1x03cUzLY8WnxjOehHvTK8OePMO6obg6lQlp7AT3qsd2fuKVYnB6dfrWDyUNoINXcpdJbTLts63pMVUZTChkbUjafitm20y2gdw001n0SkAqrn9oTiVf9IPo8HJLsbd52nPNy9s9KZ7h5xpsmpW22XFGFM6KbdVkqPtXO5XBfVGjleVxGlH1SpIKv8ANR7m9AQ0Fy0MKSjpvSDsod684t2LTERXfSBIex5WG1YWT96WHiDxcv8Aq11xoPmJA/Y2nyrx7kVufWDxxF44WfTrTsSxobkzOaQpnAQk+4pX9Y6vuurpxkXV7fzyhA5BPxVfKtyipwqUT1JPM1jd8Cr4P//Z" alt="" />
                             <div class="about">
-                                <div class="name">Train Sim World® 4</div>
+                                <div class="name">CivIdle</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Simulation
+                                        Indie, Simulation, Strategy, Free To Play, Early Access
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -858,7 +753,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        35 hours played
+                                        63 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -866,7 +761,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 3 Mar 2025
+                                        Last played on 4 Mar 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -875,32 +770,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            13 / 250 achievements unlocked
+                                            10 / 20 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcCBAj/xAAsEAACAgEDAwIGAQUAAAAAAAABAgMEBQAGERITISJhBwgUMUFRUlNiY3GR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBP/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMREhMhUfAxQWH/2gAMAwEAAhEDEQA/APOPTFCR1epv+6V4jZF63A2Qy6z0qKp3O2kJlsyJ+1jHkDwfU3C649iTGo2buxLEbNPGvNXd4w/bk7sS9QB8cgMeD76f/AbG5Td25c1GsxsvJAht/UXZIe7Ez9LcsqsWbgnhTwPJ86uUyEHTqxyswG4CEZvYt2pAbuLE16l0dwo0JjsxL+3iPnj+5eV99ET+zqw/HTGZLZ27MVH3jVlSB5KprXpJu3H3CFPU6qVY/lRyPfQX4gy99sDdaKJbN3GJPYeNAnck7kiliB45IUaI3PaAJPfCPJIWNjxGyc3SjkiWzcxzwV0kkCCSTuxMFBPjkhTxqmfLhkX2purPfWw3kyRrx1xSWspY9Ug9TdTLxweAAPv1c/YahZYA+edKMbu+UQRUs1G+SqKAqP3DHYrj/HKPPj+Lcr7aUofidOrPfiptWCVSvmOuTbo3hhDVr5Fsm1VofonqhTwsjDqUqzc8sGB/XTqb77QRHA0meKSzSxqV7CxSBxHJ3JGKEjxyAw+2tZXddmaBqmJV8fRYdDkymSxOo/qSnyR+ekcL7aLNMF9MYH+9KJsmLTLVjjpQ4iziv//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgAFBwj/xAAtEAACAgAFAwEGBwAAAAAAAAABAgMEAAUREiEGMUETBxUiUWGCFEJigaKxsv/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAgP/xAAZEQEBAQEBAQAAAAAAAAAAAAABABECIUH/2gAMAwEAAhEDEQA/AOoLl6Grw5LSHtGvLHALqTq2WJiMwrirl7MUVZLkUEs+h0JRHILj9118a4WOB70tkAbiV8fpGMG9tPS5sdR5PH6tqwJjLcsWpIvVkrwKyBgNpG5F1B2gAqATzqcc11y1mG2tZN1TlqCCGpmcUhkIRadjVJgT2AUjd/Y+uGFW7DZ1VDtkHdG4IxneWwdP9MX6ks1yeS3dAkSZCwrgOdAVRD6aITwOD8yfOGkaj3nVJXRtW/ycR18pKSMDmdsajUFePtGKXNb1aDO498MBsVaj2BLLLsIjZgrhB+Y/DqftHnCq3Shs/EwKyDtIvDDBbqDLZUeOa5F+IghB2yxoCU1I11BBI7aajxg6M9kalyXJctzlpZUrT0qscmklSGyfSaTduZdhHwggIx2kA7uRhsGU5lV5G4lj/E4qMjp2pg71zJFWkC6SSj5DTVV+o8/TCSnRhq8oC0h7yNyxw8i+w3//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>LFR: 110%</div>
-                                                <div class="unlocked">18 Apr 2024</div>
+                                                <div>Eye of Horus</div>
+                                                <div class="unlocked">27 Nov 2024</div>
                                             </div>
-                                            <div class="description">Operate the DB BR 110 for 110 km</div>
+                                            <div class="description">Rebirth with at least 1 Extra Great Person when playing Egyptian (Reach 64M Empire Value when rebirth)</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwQFAAEI/8QAKxAAAQMCBAUEAgMAAAAAAAAAAQIDBAURAAYSIRMxQVFxBxQiYTORQ6Gx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMREjJhcaH/2gAMAwEAAhEDEQA/ABCHDVMJ0KbbZSkuOPOGyGkDmpR7f2SQBucY5V6PGJbgU/3yh/PLcKQrw2k7Dyq/jF7kYIbzDkWnuIC01CqMSZSFpBS4kPBCEEdRss2PUjth79SM2enYnTsuOUnKzoYfDEoynVRSlaRqOktNKVYGySbje4sd8Pawk9SWukIO5zbFqlJlKSibTfZqJ/PEWpYT5bUdx4VfzjVWUaU62hYDrbqOIy81uhxB5KSTz5eQdjY4ZMvMel9WzBApjdAy0tcqQ2wkR6xOWtWsgfEKaSCRfqR5wYZqisNP5upTDWmPSKg65DTcnhN8YtqRc9LaD5H2cFXIi3pRyNpCplR9icr5gbbW4aNKSh9CCLiznFbtfYX+Yudrj7wqTs95eqtQflysgNSpby9brmuMVKUbm6vhuTYm/XAPSakunvKslDzDqeG8y4LodR2P62PMEAixGLpS4UtQchV2RAKrFTEzWdBHZxAOoDpdIOE2BzwliFBzBjFTM65fhzWZkHIDbMiO4HGnkORwUqSTYpOnuMFtUmKmxsyVkoU2qsS1IZbVa5Bc4rl7C23wFx1OIjT0OGriza7JnWvZmFrTq+i4sDSPCSf9xS1apyKi6ghPAYaTw2WmtkNo6Afvc8ybk7nBqDjO/wAmLdDjQY9n/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwj/xAApEAACAgEDAgUEAwAAAAAAAAABAgMEEQAFIRIxBhUiQXEUUWGCE2Jy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQADAQAAAAAAAAAAAAAAAQACESFB/9oADAMBAAIRAxEAPwDqC5ehq8OS0h7Rpyx0O33fLFipOyIRXRclQ3SGGQMZ7nv2GBpA4HmtsgDqJXnH9RoX4p3ClX2ez9RZghDjpH8jhQ2CO33HxzrJyV1WFeeEt3lsbcjwsGKACWs7ZKf5PfHzpTVuw2eEJWQd0bgjWYbHDY3CjUt0KUtdFjXosylo2Kn3CL62HzgaYbNQkp34nsW5bc0rlyzjAX0Ywo9hxpHyEp7sPNLQyMgqcfqNZjungzZ6u8zhLE0U4rm3JI8qpiMuQUjBByBycduQPfOtet0obPqYFZB2kXhhot4g22VHjmuRfUQQg9MsaAlMkZyCCR2xke2jITsnaJ4JM01GSGSRnq1wIFDBRIrKT6SygZAXpP7aTKy+Y1RkdRLcfqdVOx07Uwd65kirSBcSSj7DGVX8j3/GklOjDV5QFpD3kbljpxN9hv/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>TSW4: Setting the Standard</div>
-                                                <div class="unlocked">17 Dec 2023</div>
+                                                <div>World Wars</div>
+                                                <div class="unlocked">30 Oct 2024</div>
                                             </div>
-                                            <div class="description">Complete your first scenario in Standard Mode</div>
+                                            <div class="description">Reach World Wars Age in any city (granted when you unlock any technology in that age)</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+11 others...</div>
+                                            <div class="description ellipsis">+8 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -911,7 +806,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2025, 09:24:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Mar 2025, 09:23:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
