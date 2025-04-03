@@ -33,14 +33,14 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -132,7 +132,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    36.4 MB used
+                                    27.2 MB used
                                 </div>
                             </section>
                             <section>
@@ -237,7 +237,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DavidS95/Smokeless_UMAF</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -279,7 +279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zerotier/zeronsd</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A DNS server for ZeroTier users</div>
@@ -754,7 +754,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        22 hours played
+                                        23 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -762,7 +762,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 1 Apr 2025
+                                        Last played on 3 Apr 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -771,32 +771,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            15 / 216 achievements unlocked
+                                            18 / 216 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAlEAABAwMEAgIDAAAAAAAAAAABAgMEAAUREiExURMyBmFBcYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAABgED/8QAJxEAAQIEBgICAwAAAAAAAAAAAQIRAAUSIQMEBhMiURQxFjJBgZH/2gAMAwEAAhEDEQA/AK60NnsLjjjT0rR4PbSDkq6pAgEkd1qvj81uHAcRLd0lCyA2r2G3XPNWmOVBPCKTW+ZmWXlxMrPNRYgAlRBs6W9Edt+wYpuVkcaddej6PB7aScFPdLW08U8vMxuXEbTGd1algFA5P8pShGDgjBHNMAqKecNE5mZZiWgzQ8wWAIIUybcn9k9t/SYYfHbXFcQ1K8qnFp5RjASqjLzbYy9cpbhaVjcjg9bd0oslxTb2XgW1LWsgjBwKKnXMToYbU2UOBQPORXEoxd13tEjmpLqNWpPKRiL2QoJrdLhBZRAT0DZ6fw8G2W3x9DclLhcVjYEbJP6qd0gsDXIKyhR5H4JoK2zkw460hsqWpWfripzpqZTKAUFK0nP1xTbxd13tGCS6i+SeVuL2aqa3S9H2anp7PT7vH//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwUCBAYH/8QAIxAAAgEDBAMAAwAAAAAAAAAAAQIDAAQFESEiYRIxURNBcf/EABgBAAIDAAAAAAAAAAAAAAAAAAMGAQQH/8QAJhEAAQEIAgEFAQAAAAAAAAAAAQIAAwQFERIhMQZRQRNhcYHw8f/aAAwDAQACEQMRAD8AHREFGx1lNfTiKEb+yx9KPpqxNj57e7FuyEyE8dPTdini4VpVtHVMoREQYVT1IeAXEVyE9/H9YdvC8sipGpZ22AFWWheGQxyqVdfYNabEY1LGLyfRpmHJvnQpdmLiK5nURAHw2L/eqCh/eu1IwyfKuaqnE5VBQLq5wkGq/fvq06A2d6wyzA5E2ExDjWGQ8tBuO62aGOUJKviw04t0a59GtMLe6njt2gSQiNvY+fyofQ/qG5OC1Xl/Akzp+IyDUHb00Cq1oRquPIH0Rg0Ztl8l+QtBbtwGzOP30KWIKii0YCjO3YdigZvkcjhZHCphYUY8nyo9n9jQb//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Milestone 3</div>
-                                                <div class="unlocked">1 Apr 2025</div>
+                                                <div>Bonus Isle</div>
+                                                <div class="unlocked">2 Apr 2025</div>
                                             </div>
-                                            <div class="description">Complete milestone 3 on Bonus Isle.</div>
+                                            <div class="description">Complete all levels on Bonus Isle.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQCBgcF/8QAKhAAAgEDAQcCBwAAAAAAAAAAAQIDAAQRBQYSITFBUWETMhUiI0JisdH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQIDB//EACcRAAEDAwIEBwAAAAAAAAAAAAECAwQABRESQRMhUWExQnGxwdHh/9oADAMBAAIRAxEAPwDVqmgpO/vYdPtzNcNw5Ko5sewollqNrcWBvFkCwqMuW4bng1jIjulAdCTpJxnvTgMrKdYHLwpySWO3headwkaDLMeQo9lNFdQJNbuJInGQwrONoNZk1SbcTKWqH5E6t5Pn9Vb9iNKubG0klumZfXwVgP2+T5NNZVnESIHnlYWfL8eu/Taj37fwI4ccVhR2pfX9H+J26tEcXEYO5k8GHY/2qI4lhMkL76HOHQ8OI7itXjWhSaTZ3F9FeTQK08fJuh7EjrirbVfDDQWnhqTt2P17VODczHTw3BlO1cLZDZz09y+1BPqe6KJh7fyPnsKuyCoItGUYFKZs12Y6XXT+DpQMmSuQvWuv/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUDBv/EACUQAAEDBAICAQUAAAAAAAAAAAECAwQABRESE1EhMUEGImFxgf/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgUG/8QAJBEAAgEDBAAHAAAAAAAAAAAAAQIRBRIhAAMEMQYTFBUyQYH/2gAMAwEAAhEDEQA/AM6vfTdujy3OR10lbaslrHvo0+w2iG5ELxc5+VGvkY07H7oDijZ5brUN4OKUkBSlJ8pPXVbJtzzJRO9WnP8AEAr3qaPSXZOQvRIIBzDySpKx1ODMW62vtvYiu8jTmFOKyGseuzU9tNPYWbtJbRLdCFBJCVBPlVVLnboyGEuBXFxp18DO3X9oXc8uEfvS4HiEUD01Hqzs++3ZAJAzCQQoLT1OTM3a5+3T5rTKY8MZAJV9qNic90m5wZKHud1GxcGytAcJPyKNZXzGnNrK9EHwvPrFXbjc2X4a0RnMLJAxjBI+cUNcu4LR3qNTfm02vbXtvEUpufNwpze2bmAxBE/f4NAtUOQpzmbRrxjZO4OFHqtZEqS6gtSRjJB8pwRTbZcW2oaEPuZWDj1kgfGaFNe55S17bJzhJ/FC3NuG4daVNfm1KvbvuXEUJt/BypxY2LWIzJM/X6Nf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Viatorem</div>
-                                                <div class="unlocked">1 Apr 2025</div>
+                                                <div>Milestone 5</div>
+                                                <div class="unlocked">2 Apr 2025</div>
                                             </div>
-                                            <div class="description">Complete all levels on Viatorem.</div>
+                                            <div class="description">Complete milestone 5 on Bonus Isle.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+13 others...</div>
+                                            <div class="description ellipsis">+16 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -807,7 +807,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2025, 09:27:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2025, 09:25:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
