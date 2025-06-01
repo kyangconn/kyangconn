@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (everyday)
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 1 * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -33,16 +33,14 @@ jobs:
           config_timezone: Asia/Shanghai
           
           plugin_languages: yes
-          plugin_languages_ignored: html
+          plugin_languages_ignored: html, TeX
           plugin_languages_limit: 4
           plugin_languages_other: yes
           
           plugin_lines: yes
           plugin_lines_sections: history
-          
-          plugin_stars: yes
 
           plugin_steam_token: ${{ secrets.METRICS_STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561198844019686"
-          plugin_steam_games_limit: 4
+          plugin_steam_games_limit: 2
